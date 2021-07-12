@@ -1,2 +1,2 @@
 # bpwl
-latihan bpwl
+projek bpwl
